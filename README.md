@@ -1,5 +1,6 @@
 # LBRYcrd - The LBRY blockchain
 
+Salvador Arturo Ortiz Gonzalez SR.CEO,FUNDADOR, DESARROLLADOR CRIPTOMONEDA 
 [![Build Status](https://travis-ci.org/lbryio/lbrycrd.svg?branch=master)](https://travis-ci.org/lbryio/lbrycrd)
 [![MIT licensed](https://img.shields.io/dub/l/vibe-d.svg?style=flat)](https://github.com/lbryio/lbry-desktop/blob/master/LICENSE)
 
